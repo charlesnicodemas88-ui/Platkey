@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Platkey ED™ Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header>
+    <h1>🔥 Platkey ED™</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#efootball">eFootball</a>
+      <a href="#sports">Sports</a>
+      <a href="#games">Games</a>
+      <a href="#bots">WhatsApp Bots</a>
+      <a href="#lifestyle">Lifestyle</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Welcome to Platkey ED™</h2>
+    <p>Your hub for eFootball, Sports, Games & Bots</p>
+  </section>
+
+  <section id="efootball" class="card">
+    <h2>⚽ eFootball</h2>
+    <p>Tips, tricks, formations & updates</p>
+  </section>
+
+  <section id="sports" class="card">
+    <h2>🏆 Sports</h2>
+    <p>Latest sports news and highlights</p>
+  </section>
+
+  <section id="games" class="card">
+    <h2>🎮 Games</h2>
+    <p>Best games and updates</p>
+  </section>
+
+  <section id="bots" class="card">
+    <h2>🤖 WhatsApp Bots</h2>
+    <p>Automated bots and tools</p>
+  </section>
+
+  <section id="lifestyle" class="card">
+    <h2>🌍 Lifestyle</h2>
+    <p>Tech, fashion, and daily vibes</p>
+  </section>
+
+</body>
+</html>
